@@ -3,25 +3,25 @@
 <h3 align="center">a Backend Software Engineer skilled in Java, Python, Go, and Kotlin.</h3>
 <img align="right" alt="coding" width="450" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
-- 🔭 I’m currently working on [Hero Money](https://github.com/intelliDean/Hero_Money)
+- I’m currently working on [🔭Hero Money🔭](https://github.com/intelliDean/Hero_Money)
 
-- 🌱 I’m currently learning **Kotlin for Android**
+- I’m currently learning **🌱Kotlin for Android🌱**
 
-- 👯 I collaborated on [Class](https://github.com/caards000/class-api)
+- I collaborated on [👯Class👯](https://github.com/caards000/class-api)
 
-- 🤝 I have interest in **Web 3.0**
+- I have interest in **🤝Web 3.0🤝**
 
-- 👨‍💻 All of my projects are available at [https://github.com/intelliDean](https://github.com/intelliDean)
+- All of my projects are available at [👨‍💻Dean GitHub👨‍💻](https://github.com/intelliDean)
 
-- 📝 I write articles on [https://intellidean.medium.com/](https://intellidean.medium.com/)
+- I write articles on [📝Dean Medium📝](https://intellidean.medium.com/)
 
-- 💬 Ask me about **Java, Springboot, Python, Django, Kotlin, PostgreSQL, MySQL**
+- Ask me about **💬Java, Springboot, Python, Django, Kotlin, PostgreSQL, MySQL💬**
 
-- 📫 Contact me at: **o.michaeldean@gmail.com**
+- Contact me at **📫o.michaeldean@gmail.com📫**
 
-- 📄 Check out my resume [https://docs.google.com/document/d/1Aze4nrGRlIKUOSbapdM1Abi8PDILDTOS-uRu9XJKn_E/edit?usp=sharing](https://docs.google.com/document/d/1Aze4nrGRlIKUOSbapdM1Abi8PDILDTOS-uRu9XJKn_E/edit?usp=sharing)
+- 📄 Check out my resume [📄Dean Resume📄](https://docs.google.com/document/d/1Aze4nrGRlIKUOSbapdM1Abi8PDILDTOS-uRu9XJKn_E/edit?usp=sharing)
 
-- ⚡ Fun fact **I love coding and travelling**
+- Fun fact **⚡I love coding and travelling⚡**
 
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=intellidean&theme=algolia" alt="intellidean" /></a> </p>
 
