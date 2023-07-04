@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQGdOAptsi4N1w/profile-displaybackgroundimage-shrink_350_1400/0/1667151249689?e=1694044800&v=beta&t=CSQ1wIPbarJ86P9YhznMhZTbu-3wyQKnw1Et12kCUCE)
 <h1 align="center">Hi there 👋, I'm Michael Dean</h1>
 <h3 align="center">a Backend Software Engineer skilled in Java, Python, Go, and Kotlin.</h3>
-<img align="right" alt="coding" width="450" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 - I’m currently working on [🔭Hero Money🔭](https://github.com/intelliDean/Hero_Money)
 
