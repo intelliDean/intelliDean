@@ -15,13 +15,12 @@
 
 - I write articles on [📝Dean Medium📝](https://intellidean.medium.com/)
 
-- Ask me about **💬Java, Springboot, Python, Django, Kotlin, PostgreSQL, MySQL💬**
-
 - Contact me at **📫o.michaeldean@gmail.com📫**
 
-- 📄 Check out my resume [📄Dean Resume📄](https://docs.google.com/document/d/1Aze4nrGRlIKUOSbapdM1Abi8PDILDTOS-uRu9XJKn_E/edit?usp=sharing)
+- Check out my resume [📄Dean Resume📄](https://docs.google.com/document/d/1Aze4nrGRlIKUOSbapdM1Abi8PDILDTOS-uRu9XJKn_E/edit?usp=sharing)
 
 - Fun fact **⚡I love coding and travelling⚡**
+- Ask me about **💬Java, Springboot, Python, Django, Kotlin, PostgreSQL, MySQL💬**
 
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=intellidean&theme=algolia" alt="intellidean" /></a> </p>
 
