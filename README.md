@@ -3,11 +3,11 @@
 <h3 align="center">a Backend Software Engineer skilled in Java, Python, Javascript, and Kotlin.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
-- I’m currently working on [🔭Task Hub🔭](https://github.com/02Herotech/Service-Market-Place)
+- I’m currently working on Web3/Blockchain/Ethereum.
 
 - I’m currently learning **🌱Kotlin for Android🌱**
 
-- I collaborated on [👯Doc. Mgt👯](https://github.com/ehis0075/Doc-mgt-system)
+- I collaborated on [👯Doc. Mgt👯](https://github.com/ehis0075/Doc-mgt-system) & [🔭Task Hub🔭](https://github.com/02Herotech/Service-Market-Place)
 
 - I have interest in **🤝Web 3.0🤝**
 
