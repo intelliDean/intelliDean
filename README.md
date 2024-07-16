@@ -3,9 +3,9 @@
 <h3 align="center">a Backend Software Engineer skilled in Java, Python, Javascript, and Kotlin.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
-- I’m currently working on Web3/Blockchain/Ethereum.
+- I’m currently working on Web3/Blockchain/Ethereum/Starknet.
 
-- I’m currently learning **🌱Kotlin for Android🌱**
+- I’m currently learning **🌱Rust and Cairo🌱**
 
 - I collaborated on [👯Doc. Mgt👯](https://github.com/ehis0075/Doc-mgt-system) & [🔭Task Hub🔭](https://github.com/02Herotech/Service-Market-Place)
 
@@ -16,6 +16,8 @@
 - I write articles on [📝Dean Medium📝](https://intellidean.medium.com/)
 
 - Contact me at **📫o.michaeldean@gmail.com📫**
+  
+- Connect with me **https://linktr.ee/dean8ix**
 
 - Check out my resume [📄Dean Resume📄](https://flowcv.com/resume/gnsu9bqkm4)
 
