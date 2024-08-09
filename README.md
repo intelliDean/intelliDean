@@ -26,6 +26,7 @@
 - Check out my resume [📄Dean Resume📄](https://flowcv.com/resume/gnsu9bqkm4)
 
 - Fun fact **⚡I love coding and travelling⚡**
+  
 - Ask me about **💬Java, Springboot, Python, Django, Kotlin, PostgreSQL, MySQL💬**
 
 
@@ -36,7 +37,6 @@
     <a href="mailto:o.michaeldean@gmail.com">
         <img src="https://img.shields.io/badge/Gmail=333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
-    
 </div>
 
 
