@@ -4,9 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there+👋;+I'm+Michael+Dean!;" />
 </h1>
 
-
-
-<h1 align="center">Hi there 👋, I'm Michael Dean</h1>
 <h3 align="center">a Backend Software Engineer skilled in Java, Python, Javascript, and Kotlin.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
