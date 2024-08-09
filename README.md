@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=intelliDean.intelliDean" />
 
 <h1 align="center" >
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there+👋;+I'm+Michael+Dean!;+I'm+a+Software+Engineer+with+proficiency+in;+Java;+Solidity;+Cairo;+Rust;+iWrite+Smart+Contract+on+the+blockchain;+You+have+a+problem+to+solve?;+Hit+me+up!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there+👋;+I'm+Michael+Dean!;+I'm+a+Software+Engineer...;+with+proficiency+in;+Java;+Solidity;+Cairo;+Rust;+iWrite+Smart+Contract...;+on+the+blockchain;+You+have+a+problem+to+solve?;+Hit+me+up!" />
 </h1>
 
 <h3 align="center">a Backend Software Engineer skilled in Java, Python, Javascript, and Kotlin.</h3>
