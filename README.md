@@ -31,12 +31,6 @@
 - Fun fact **⚡I love coding and travelling⚡**
 - Ask me about **💬Java, Springboot, Python, Django, Kotlin, PostgreSQL, MySQL💬**
 
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=intellidean&theme=algolia" alt="intellidean" /></a> </p>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dean8ix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dean8ix" height="30" width="40" /></a>
