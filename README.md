@@ -4,7 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there+👋;+I'm+Michael+Dean!;+I'm+a+Software+Engineer...;+with+proficiency+in...;+Java;+Solidity;+Cairo;+Rust;+iWrite+Smart+Contract...;+on+the+blockchain;+You+have+a+problem+to+solve?;+Hit+me+up!" />
 </h1>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 - 👨‍💻 I’m currently building in the Web3/Blockchain space, with a focus on Ethereum and Starknet.
 
