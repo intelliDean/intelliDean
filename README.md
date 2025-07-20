@@ -6,27 +6,28 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
-- I’m currently working on Web3/Blockchain/Ethereum/Starknet.
+- 👨‍💻 I’m currently building in the Web3/Blockchain space, with a focus on Ethereum and Starknet.
 
-- I’m currently learning **🌱Rust and Cairo🌱**
+- 🌱 Deep diving into **Rust** and **Cairo** to explore high-performance and zero-knowledge systems.
 
-- I collaborated on [👯Doc. Mgt👯](https://github.com/ehis0075/Doc-mgt-system) & [🔭Task Hub🔭](https://github.com/02Herotech/Service-Market-Place)
+- 🤝 Recently collaborated on [Doc. Mgt](https://github.com/ehis0075/Doc-mgt-system) and [Task Hub](https://github.com/02Herotech/Service-Market-Place).
 
-- I have interest in **🤝Web 3.0🤝**
+- 🧠 Passionate about decentralization, zk-tech, and the future of **Web3**.
 
-- All of my projects are available at [👨‍💻Dean GitHub👨‍💻](https://github.com/intelliDean)
+- 🔗 Explore all my projects on [GitHub](https://github.com/intelliDean).
 
-- I write articles on [📝Dean Medium📝](https://intellidean.medium.com/)
+- ✍🏾 I write about blockchain, engineering, and zero knowledge on [Medium](https://intellidean.medium.com/).
 
-- Contact me at **📫o.michaeldean@gmail.com📫**
-  
-- Connect with me **https://linktr.ee/dean8ix**
+- 📫 Reach me at: **o.michaeldean@gmail.com**
 
-- Check out my resume [📄Dean Resume📄](https://flowcv.com/resume/gnsu9bqkm4)
+- 🌍 Connect with me via [Linktree](https://linktr.ee/dean8ix)
 
-- Fun fact **⚡I love coding and travelling⚡**
-  
-- Ask me about **💬Java, Springboot, Web3, Ethereum, Cairo, Starknet💬**
+- 📄 Check out my [Resume](https://flowcv.com/resume/gnsu9bqkm4)
+
+- ⚡ Fun fact: I love solving complex problems and traveling to recharge.
+
+- 💬 Ask me about **Java, Spring Boot, Ethereum, Cairo, Starknet, and Zero Knowledge**.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
