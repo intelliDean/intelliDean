@@ -9,26 +9,25 @@
 
 ## 👨‍💻 What I’m Doing  
 - Currently building in the **Web3/Blockchain** space  
-- Focused on **Ethereum**, **Starknet**, and ZK-enabled systems  
-- Exploring protocol engineering with **Rust** and **Cairo**
+- Exploring **Protocol Engineering** and **ZK Research** with **Rust**
 
 ## 🛠️ Projects & Contributions  
 - Recently shipped [**ERI**](https://eri-alpha.vercel.app/), a smart ownership verification platform  
 - Explore all my work on [**GitHub**](https://github.com/intelliDean)  
-- Checkout my portfolio site: [**dean8ix.vercel.app**](https://dean8ix.vercel.app/)
+- Checkout my website: [**Portfolio**](https://dean8ix.vercel.app/)
 
 ## ✍🏾 Writing & Thought  
-- I write about **zero-knowledge**, **decentralization**, and engineering on [**Medium**](https://intellidean.medium.com/)
+- I write about **zero-knowledge**, **decentralization**, and **engineering** on [**Medium**](https://intellidean.medium.com/)
 
 ## 📄 Let's Connect  
 - 📫 Email: **o.michaeldean@gmail.com**  
 - 🧾 Resume: [flowcv.com/resume/gnsu9bqkm4](https://flowcv.com/resume/gnsu9bqkm4)  
-- 🌍 All socials: [linktr.ee/dean8ix](https://linktr.ee/dean8ix)
+- 🌍 All socials: [Socials](https://linktr.ee/dean8ix)
 
 ## ⚡ Fun Stuff  
 - I love solving deep technical problems  
-- I recharge by **traveling** and exploring new cultures  
-- Always down to talk **Rust**, **Solidity**, **Java**, **ZK**, **Starknet**, or how we build the next internet 🚀
+- I recharge by **traveling** and exploring **new cultures**  
+- Always ready to talk **Rust**, **Solidity**, **Java**, **ZK**, **Starknet**, **Ethereum** 🚀
 
 
 
