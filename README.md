@@ -7,32 +7,29 @@
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="100%" height="400" alt="coding">
 
 
+## 👨‍💻 What I’m Doing  
+- Currently building in the **Web3/Blockchain** space  
+- Focused on **Ethereum**, **Starknet**, and ZK-enabled systems  
+- Exploring protocol engineering with **Rust** and **Cairo**
 
+## 🛠️ Projects & Contributions  
+- Recently shipped [**ERI**](https://eri-alpha.vercel.app/), a smart ownership verification platform  
+- Explore all my work on [**GitHub**](https://github.com/intelliDean)  
+- Checkout my portfolio site: [**dean8ix.vercel.app**](https://dean8ix.vercel.app/)
 
+## ✍🏾 Writing & Thought  
+- I write about **zero-knowledge**, **decentralization**, and engineering on [**Medium**](https://intellidean.medium.com/)
 
+## 📄 Let's Connect  
+- 📫 Email: **o.michaeldean@gmail.com**  
+- 🧾 Resume: [flowcv.com/resume/gnsu9bqkm4](https://flowcv.com/resume/gnsu9bqkm4)  
+- 🌍 All socials: [linktr.ee/dean8ix](https://linktr.ee/dean8ix)
 
+## ⚡ Fun Stuff  
+- I love solving deep technical problems  
+- I recharge by **traveling** and exploring new cultures  
+- Always down to talk **Rust**, **Solidity**, **Java**, **ZK**, **Starknet**, or how we build the next internet 🚀
 
-- 👨‍💻 I’m currently building in the Web3/Blockchain space, with a focus on Ethereum and Starknet.
-
-- 🌱 Deep diving into **Rust** and **Cairo** to explore protocol engineering and zero-knowledge systems.
-
-- 🤝 Recently built [ERI](https://eri-alpha.vercel.app/).
-
-- 🧠 Passionate about decentralization, zk-tech, and the future of **Web3**.
-
-- 🔗 Explore all my projects on [GitHub](https://github.com/intelliDean).
-
-- ✍🏾 I write about blockchain, engineering, and zero knowledge on [Medium](https://intellidean.medium.com/).
-
-- 📫 Reach me at: **o.michaeldean@gmail.com**
-
-- 🌍 Connect with me via [Website](https://dean8ix.vercel.app/)
-
-- 📄 Check out my [Resume](https://flowcv.com/resume/gnsu9bqkm4)
-
-- ⚡ Fun fact: I love solving complex problems and traveling to recharge.
-
-- 💬 Ask me about **Rust, Java, Spring Boot, Solidity, Ethereum, Cairo, Starknet, Zero Knowledge**.
 
 
 <h3 align="left">Connect with me:</h3>
