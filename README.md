@@ -8,9 +8,9 @@
 
 - 👨‍💻 I’m currently building in the Web3/Blockchain space, with a focus on Ethereum and Starknet.
 
-- 🌱 Deep diving into **Rust** and **Cairo** to explore high-performance and zero-knowledge systems.
+- 🌱 Deep diving into **Rust** and **Cairo** to explore protocol engineering and zero-knowledge systems.
 
-- 🤝 Recently collaborated on [Doc. Mgt](https://github.com/ehis0075/Doc-mgt-system) and [Task Hub](https://github.com/02Herotech/Service-Market-Place).
+- 🤝 Recently built [ERI](https://eri-alpha.vercel.app/).
 
 - 🧠 Passionate about decentralization, zk-tech, and the future of **Web3**.
 
@@ -20,13 +20,13 @@
 
 - 📫 Reach me at: **o.michaeldean@gmail.com**
 
-- 🌍 Connect with me via [Linktree](https://linktr.ee/dean8ix)
+- 🌍 Connect with me via [Website](https://dean8ix.vercel.app/)
 
 - 📄 Check out my [Resume](https://flowcv.com/resume/gnsu9bqkm4)
 
 - ⚡ Fun fact: I love solving complex problems and traveling to recharge.
 
-- 💬 Ask me about **Java, Spring Boot, Ethereum, Cairo, Starknet, and Zero Knowledge**.
+- 💬 Ask me about **Rust, Java, Spring Boot, Solidity, Ethereum, Cairo, Starknet, Zero Knowledge**.
 
 
 <h3 align="left">Connect with me:</h3>
