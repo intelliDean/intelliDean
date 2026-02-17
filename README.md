@@ -57,7 +57,7 @@ I write deep technical content on [Medium](https://intellidean.medium.com/) cove
 
   <!-- Core Languages -->
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" width="40" height="40"/>
   </a>
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/>
@@ -74,19 +74,8 @@ I write deep technical content on [Medium](https://intellidean.medium.com/) cove
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
-
-  <!-- Blockchain Ecosystems -->
-  <a href="https://ethereum.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" alt="Ethereum" width="40" height="40"/>
-  </a>
-  <a href="https://arbitrum.io" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/56440456?s=200&v=4" alt="Arbitrum" width="40" height="40"/>
-  </a>
-  <a href="https://www.starknet.io/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/44377278?s=200&v=4" alt="Starknet" width="40" height="40"/>
-  </a>
-  <a href="https://monad.xyz" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/116753965?s=200&v=4" alt="Monad" width="40" height="40"/>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
 
   <!-- Tools -->
