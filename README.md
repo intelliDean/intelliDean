@@ -52,6 +52,59 @@ I write deep technical content on [Medium](https://intellidean.medium.com/) cove
 
 ---
 
+<h3 align="left">🛠️ Languages & Tools</h3>
+<p align="left">
+
+  <!-- Core Languages -->
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/>
+  </a>
+  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/>
+  </a>
+  <a href="https://www.cairo-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/44377278?s=200&v=4" alt="Cairo" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+
+  <!-- Blockchain Ecosystems -->
+  <a href="https://ethereum.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" alt="Ethereum" width="40" height="40"/>
+  </a>
+  <a href="https://arbitrum.io" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/56440456?s=200&v=4" alt="Arbitrum" width="40" height="40"/>
+  </a>
+  <a href="https://www.starknet.io/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/44377278?s=200&v=4" alt="Starknet" width="40" height="40"/>
+  </a>
+  <a href="https://monad.xyz" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/116753965?s=200&v=4" alt="Monad" width="40" height="40"/>
+  </a>
+
+  <!-- Tools -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://hardhat.org/" target="_blank" rel="noreferrer">
+    <img src="https://hardhat.org/favicon.ico" alt="Hardhat" width="40" height="40"/>
+  </a>
+  <a href="https://getfoundry.sh/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" alt="Foundry" width="40" height="40"/>
+  </a>
+
+</p>
+
 ## 🤝 Let's Connect
 
 I'm actively looking for **DevRel roles** at protocol teams, L1/L2s, and dev tooling companies where I can bridge deep technical work and developer community building.
