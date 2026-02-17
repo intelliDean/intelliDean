@@ -1,97 +1,63 @@
- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=intelliDean.intelliDean" />
+# Hey, I'm Dean 👋
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there+👋;+I'm+Michael+Dean!;+I+am+a...;+Full+Stack+Engineer;+Protocol+Engineer;+ZK+Research+Engineer;+with+proficiency+in...;+Rust;+Java;+Solidity;+Cairo;+iWrite+Smart+Contracts...;+on+the+blockchain;+Let's+collaborate!" width="100%" />
+### Rust · Blockchain · Protocol Engineering · DevRel
 
+I build at the intersection of **performance, privacy, and decentralisation** — writing production Rust, shipping smart contracts across EVM and beyond, and turning complex protocol mechanics into things developers actually understand and enjoy using.
 
+Currently focused on: **Arbitrum Stylus** · **Monad** · **ZK/Privacy infrastructure**
 
-<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="100%" height="400" alt="coding">
+---
 
+## 🔨 What I Ship
 
-## 👨‍💻 What I’m Doing  
-- Currently building in the **Web3/Blockchain** space  
-- Exploring **Protocol Engineering** and **ZK Research** with **Rust**
+| Project | Description | Stack |
+|---|---|---|
+| [**Stylus Trace**](https://github.com/intelliDean/stylus-trace) | High-performance profiling tool for Arbitrum Stylus transactions | `Rust` `Arbitrum Stylus` |
+| [**PhantomBet**](https://github.com/intelliDean/PhantomBet) | Privacy-first decentralised prediction market with AI-powered settlement | `Rust` `Solidity` `ZK` |
+| [**The Arbiter**](https://github.com/intelliDean/the-arbiter) | Autonomous AI referee protocol on Monad Blockchain | `Rust` `Monad` `AI` |
+| [**Payego**](https://github.com/intelliDean/payego) | High-throughput fintech payment engine | `Rust` |
 
-## 🛠️ Projects & Contributions  
-- Recently shipped [**ERI**](https://eri-alpha.vercel.app/), a smart ownership verification platform  
-- Explore all my work on [**GitHub**](https://github.com/intelliDean)  
-- Checkout my website: [**Portfolio**](https://dean8ix.vercel.app/)
+---
 
-## ✍🏾 Writing & Thought  
-- I write about **zero-knowledge**, **decentralization**, and **engineering** on [**Medium**](https://intellidean.medium.com/)
+## 🧠 What I Care About
 
-## 📄 Let's Connect  
-- 📫 Email: **o.michaeldean@gmail.com**  
-- 🧾 Resume: [flowcv.com/resume/gnsu9bqkm4](https://flowcv.com/resume/gnsu9bqkm4)  
-- 🌍 All socials: [Socials](https://linktr.ee/dean8ix)
+- **Devtools that don't suck** — if a protocol is hard to debug or profile, I'll build the tool that fixes that
+- **Privacy as a primitive** — not an afterthought
+- **Making hard things legible** — writing and speaking about ZK, Rust, and on-chain systems so other engineers can move faster
+- **Protocol engineering** — I care about what's happening at the consensus and execution layer, not just the application layer
 
-## ⚡ Fun Stuff  
-- I love solving deep technical problems  
-- I recharge by **traveling** and exploring **new cultures**  
-- Always ready to talk **Rust**, **Solidity**, **Java**, **ZK**, **Starknet**, **Ethereum** 🚀
+---
 
+## ✍🏾 Writing
 
+I write deep technical content on [Medium](https://intellidean.medium.com/) covering:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/dean8ix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dean8ix" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/michaeldean8ix/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michaeldean8ix/" height="30" width="40" /></a>
-<a href="https://medium.com/@dean8ix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dean8ix" height="30" width="40" /></a>
-</p>
+- Zero-knowledge proofs and their real-world tradeoffs  
+- Rust performance patterns for blockchain systems  
+- Decentralised architecture and protocol design  
 
-<h3 align="left">🛠️ Languages & Tools</h3>
-<p align="left">
-  <!-- Languages -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
+---
 
-  <!-- Frameworks -->
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
-  </a>
+## 🛠️ Stack
 
-  <!-- Databases -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
+**Languages:** `Rust` `Solidity` `Cairo` `Java` `TypeScript` `Python`  
+**Chains:** `Ethereum` `Arbitrum (Stylus)` `Monad` `Starknet`  
+**Domains:** `Smart Contracts` `Protocol Engineering` `ZK Research` `Fintech` `AI x Blockchain`
 
-  <!-- Other Tools -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-</p>
+---
 
+## 📈 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=intellidean&show_icons=true&locale=en&layout=compact&theme=algolia" alt="intellidean" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=intelliDean&show_icons=true&locale=en&layout=compact&theme=dark)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=intellidean&show_icons=true&theme=algolia&locale=en" alt="intellidean" /></p>
+---
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=intellidean&theme=algolia&" alt="intellidean" />
-</p>
+## 🤝 Let's Connect
+
+I'm actively looking for **DevRel roles** at protocol teams, L1/L2s, and dev tooling companies where I can bridge deep technical work and developer community building.
+
+[![Twitter](https://img.shields.io/badge/@dean8ix-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dean8ix)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michaeldean8ix)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://intellidean.medium.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://dean8ix.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:o.michaeldean@gmail.com)
