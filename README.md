@@ -1,10 +1,10 @@
 # Hey, I'm Dean 👋
 
-### Rust · Blockchain · Protocol Engineering · DevRel
+### Rust · Blockchain · Protocol Engineering · ZK Research Engineering
 
-I build at the intersection of **performance, privacy, and decentralisation** — writing production Rust, shipping smart contracts across EVM and beyond, and turning complex protocol mechanics into things developers actually understand and enjoy using.
+Performance is non-negotiable. Privacy is a right. Decentralisation is the point. I build at that intersection — and when the tools don't exist to build it right, I stop and build those first. Production Rust, cross-chain protocols, and the writing that makes all of it make sense to other developers.
 
-Currently focused on: **Arbitrum Stylus** · **Monad** · **ZK/Privacy infrastructure**
+Currently focused on: **Protocol Engineering** · **ZK/Privacy infrastructure** · **Devtooling**
 
 ---
 
@@ -104,15 +104,3 @@ I'm actively looking **collaborate** with teams, L1/L2s, and dev tooling compani
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:o.michaeldean@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://flowcv.com/resume/gnsu9bqkm4)
 [![Linktr](https://img.shields.io/badge/Linktr-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://linktr.ee/dean8ix)
-
-
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=intellidean&show_icons=true&locale=en&layout=compact&theme=algolia" alt="intellidean" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=intellidean&show_icons=true&theme=algolia&locale=en" alt="intellidean" /></p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=intellidean&theme=algolia&" alt="intellidean" />
-</p>
