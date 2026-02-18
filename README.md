@@ -48,7 +48,8 @@ I write deep technical content on [Medium](https://intellidean.medium.com/) cove
 
 ## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=intelliDean&layout=compact)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=intelliDean&layout=compact&theme=dark)
 
 ---
 
