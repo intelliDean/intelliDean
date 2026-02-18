@@ -91,15 +91,22 @@ I write deep technical content on [Medium](https://intellidean.medium.com/) cove
   <a href="https://getfoundry.sh/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" alt="Foundry" width="40" height="40"/>
   </a>
-
 </p>
 
 ## 🤝 Let's Connect
 
-I'm actively looking for **DevRel roles** at protocol teams, L1/L2s, and dev tooling companies where I can bridge deep technical work and developer community building.
+I'm actively looking **collaborate** with teams, L1/L2s, and dev tooling companies where I can bridge deep technical work and expertise.
 
 [![Twitter](https://img.shields.io/badge/@dean8ix-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dean8ix)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michaeldean8ix)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://intellidean.medium.com/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://dean8ix.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:o.michaeldean@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://flowcv.com/resume/gnsu9bqkm4)
+[![Linktr](https://img.shields.io/badge/Linktr-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://linktr.ee/dean8ix)
+
+
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=intellidean&show_icons=true&locale=en&layout=compact&theme=algolia" alt="intellidean" />
+</p>
