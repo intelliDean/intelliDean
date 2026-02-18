@@ -110,3 +110,9 @@ I'm actively looking **collaborate** with teams, L1/L2s, and dev tooling compani
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=intellidean&show_icons=true&locale=en&layout=compact&theme=algolia" alt="intellidean" />
 </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=intellidean&show_icons=true&theme=algolia&locale=en" alt="intellidean" /></p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=intellidean&theme=algolia&" alt="intellidean" />
+</p>
