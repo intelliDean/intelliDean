@@ -8,14 +8,26 @@ Currently focused on: **Protocol Engineering** · **ZK/Privacy infrastructure** 
 
 ---
 
-## 🔨 What I Ship
+## 💎 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [**Stylus Trace**](https://github.com/intelliDean/stylus-trace) | High-performance profiling tool for Arbitrum Stylus transactions | `Rust` `Arbitrum Stylus` |
-| [**PhantomBet**](https://github.com/intelliDean/PhantomBet) | Privacy-first decentralised prediction market with AI-powered settlement | `Rust` `Solidity` `Chainlink` `AI` |
-| [**The Arbiter**](https://github.com/intelliDean/the-arbiter) | Autonomous AI referee protocol on Monad Blockchain | `Solidity` `Python` `Monad` `AI` |
-| [**Payego**](https://github.com/intelliDean/payego) | High-throughput fintech payment engine | `Rust` `React` |
+### [Payego](https://github.com/intelliDean/payego) — High-throughput Fintech Engine
+*   **Architecture**: Clean Architecture (Axum, Diesel, PostgreSQL).
+*   **Highlights**: Multi-currency wallet, Stripe/PayPal integration, OpenAPI (`utoipa`), and robust observability (Grafana/Prometheus).
+*   **Takeaway**: Professional-grade Rust workspace with modular crates (`api`, `core`, `primitives`).
+
+### [PhantomBet](https://github.com/intelliDean/PhantomBet) — AI-powered Prediction Market
+*   **Innovation**: Decentralized prediction market with GPT-4 powered settlement via Chainlink CRE.
+*   **Highlights**: Bespoke `CRESettlementOracle.sol` bridging AI analysis to on-chain market resolution.
+*   **Takeaway**: Leading the "AI x Blockchain" space with trustless settlement mechanisms.
+
+### [Chronicle-Indexer](https://github.com/intelliDean/Chronicle-Indexer) — Multi-chain Indexer
+*   **Performance**: High-throughput indexing for EVM and Parachain networks using the `alloy` library.
+*   **Highlights**: WebSocket-based real-time event filtering and historical block ingestion.
+*   **Takeaway**: Specialized data engineering for high-speed blockchain state tracking.
+
+### [Stylus Trace](https://github.com/intelliDean/stylus-trace) — Transaction Profiling
+*   **Tooling**: High-performance profiling tool for Arbitrum Stylus transactions.
+*   **Highlights**: Solves the observability gap for Rust-based smart contracts on Arbitrum.
 
 ---
 
@@ -55,7 +67,7 @@ I write deep technical content on [Medium](https://intellidean.medium.com/) cove
 
 ## 🤝 Let's Connect
 
-I'm actively looking **collaborate** with teams, L1/L2s, and dev tooling companies where I can bridge deep technical work and expertise.
+I'm actively looking to **collaborate** with teams, L1/L2s, and dev tooling companies where I can bridge deep technical work and expertise.
 
 [![Twitter](https://img.shields.io/badge/@dean8ix-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dean8ix)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michaeldean8ix)
