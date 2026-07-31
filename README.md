@@ -1,6 +1,6 @@
 # Hey, I'm Dean 👋
 
-### Rust · Blockchain · Protocol Engineering · ZK Research Engineering
+### Software Engineer · Blockchain Engineer · Protocol Engineer · ZK Research Engineer
 
 Performance is non-negotiable. Privacy is a right. Decentralisation is the point. I build at that intersection — and when the tools don't exist to build it right, I stop and build those first. Production Rust, cross-chain protocols, and the writing that makes it all make sense to other developers.
 
