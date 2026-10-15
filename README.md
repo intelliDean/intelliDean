@@ -1,10 +1,10 @@
 # Hey, I'm Dean 👋
 
-### Protocol Engineer · Distributed Systems & Fintech · Rust Systems · ZK & Privacy
+### Software Engieer · Protocol Engineer · Distributed Systems · Fintech
 
 Performance is non-negotiable. Privacy is a right. Decentralisation is the point. I build at that intersection — and when the tools don't exist to build it right, I stop and build those first. Production Rust, financial protocols, cloud-native distributed systems, cross-chain execution engines, and the writing that makes it all make sense to other developers.
 
-Currently focused on: **Protocol Engineering** · **Financial Infrastructure & Microservices** · **ZK/Privacy Systems** · **Devtooling**
+Currently focused on: **Financial Infrastructure & Microservices** · **Protocol Engineering** · **Devtooling**
 
 ---
 
