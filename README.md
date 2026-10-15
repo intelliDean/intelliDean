@@ -8,6 +8,17 @@ Currently focused on: **Financial Infrastructure & Microservices** · **Protocol
 
 ---
 
+## Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `Rust (Nightly/Stable)` `Java 21/25/26` `Solidity` `Cairo` `TypeScript` `Python` `Go` |
+| **Chains & Protocols**| `ISO 8583:1987 (Visa/MC)` `Zcash (NU6/NU6.1, Orchard)` `Ethereum` `Arbitrum (Stylus)` `Starknet` `Solana` `Nervos (Fiber)` |
+| **Architectures** | `Distributed Microservices (12-Factor)` `Protocol Engineering` `Financial Switching` `Devtooling` `ZK Research` |
+| **Data & Core** | `Apache Kafka (KRaft)` `PostgreSQL` `Redis` `RocksDB` `SQLite (WAL)` `Diesel` `Docker` `Zipkin` `gRPC` |
+
+---
+
 ## Featured Projects
 
 ### [Atupa](https://github.com/intelliDean/Atupa) — Universal Multi-VM Execution Profiler
@@ -75,17 +86,6 @@ I write deep technical content on [Medium](https://intellidean.medium.com/) cove
 - Zero-knowledge proofs and their real-world tradeoffs  
 - Rust performance patterns for blockchain systems  
 - Decentralised architecture and protocol design  
-
----
-
-## Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | `Rust (Nightly/Stable)` `Java 21/25/26` `Solidity` `Cairo` `TypeScript` `Python` `Go` |
-| **Chains & Protocols**| `ISO 8583:1987 (Visa/MC)` `Zcash (NU6/NU6.1, Orchard)` `Ethereum` `Arbitrum (Stylus)` `Starknet` `Solana` `Nervos (Fiber)` |
-| **Architectures** | `Distributed Microservices (12-Factor)` `Protocol Engineering` `Financial Switching` `Devtooling` `ZK Research` |
-| **Data & Core** | `Apache Kafka (KRaft)` `PostgreSQL` `Redis` `RocksDB` `SQLite (WAL)` `Diesel` `Docker` `Zipkin` `gRPC` |
 
 ---
 
