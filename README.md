@@ -1,10 +1,10 @@
 # Hey, I'm Dean 👋
 
-### Protocol Engineer · Rust Systems · ZK & Privacy Infrastructure
+### Protocol Engineer · Rust Systems · Financial Infrastructure · ZK & Privacy
 
-Performance is non-negotiable. Privacy is a right. Decentralisation is the point. I build at that intersection — and when the tools don't exist to build it right, I stop and build those first. Production Rust, cross-chain protocols, and the writing that makes it all make sense to other developers.
+Performance is non-negotiable. Privacy is a right. Decentralisation is the point. I build at that intersection — and when the tools don't exist to build it right, I stop and build those first. Production Rust, financial protocols, cross-chain execution engines, and the writing that makes it all make sense to other developers.
 
-Currently focused on: **Protocol Engineering** · **ZK/Privacy infrastructure** · **Devtooling**
+Currently focused on: **Protocol Engineering** · **Financial Infrastructure** · **ZK/Privacy Systems** · **Devtooling**
 
 ---
 
@@ -15,6 +15,13 @@ Currently focused on: **Protocol Engineering** · **ZK/Privacy infrastructure** 
 * **Multi-VM Coverage**: EVM, Arbitrum Stylus (WASM), Starknet (Cairo), Solana (SVM), and Stellar (Soroban).
 * **Highlights**: Cross-VM execution timeline stitching, protocol-aware gas/step accounting, and local-first interactive flamegraphs (`atupa studio`).
 * **Takeaway**: Shipped production tooling solving the multi-VM execution and profiling gap.
+
+### 💳 [ISO-8583](https://github.com/intelliDean/ISO-8583) — Enterprise Payment Protocol Engine & Host Simulator
+* **Core Engine**: High-performance payment switch and host simulator implementing **ISO 8583:1987**, **Visa SMS**, and **Mastercard IPM** powered by **Java 26 Virtual Threads**.
+* **Dual Interface**: Raw binary TCP socket (Port 8583 with 2-byte big-endian framing & 10-char TPDU) + TLS 1.3 / mTLS client auth + REST Management API & Web Control Center.
+* **Banking Cryptography & EMV**: ANSI X9.24 DUKPT key tree derivation (BDK/IPEK/PEK/MAK), ISO 9564 PIN translation (Formats 0, 1, 3, 4), ISO 9797-1 Retail MAC, and EMV BER-TLV chip decoding (DE 55).
+* **Clearing & Settlement**: Dual-Message System (DMS) engine with 1240 First Presentment, 1440 Chargeback dispute filing, and scheme interchange fee calculation.
+* **Stack**: `Java 21/26` · `Virtual Threads` · `Spring Boot` · `PostgreSQL 16` · `Redis 7` · `Apache Kafka 3.6` · `Prometheus`
 
 ### 🛡️ [FNN Safeguard](https://github.com/intelliDean/fnn_safeguard) — Nervos Fiber DR & Safety Qualification
 * **Safety Invariants**: Enforces machine-verifiable safety invariants (I1–I8) with deterministic fail-closed verdicts.
@@ -36,11 +43,6 @@ Currently focused on: **Protocol Engineering** · **ZK/Privacy infrastructure** 
 * **Innovation**: Decentralized prediction market with GPT-4 powered settlement via Chainlink CRE.
 * **Highlights**: Bespoke `CRESettlementOracle.sol` bridging off-chain LLM verification into trustless on-chain resolution.
 * **Takeaway**: Leading the "AI x Blockchain" design space with trustless settlement mechanisms.
-
-### 📊 [Chronicle-Indexer](https://github.com/intelliDean/Chronicle-Indexer) — Multi-chain Indexer
-* **Performance**: High-throughput indexing for EVM and Parachain networks using the `alloy` library.
-* **Highlights**: WebSocket-based real-time event filtering and historical block ingestion.
-* **Takeaway**: Specialized data engineering for high-speed blockchain state tracking.
 
 ---
 
@@ -67,10 +69,10 @@ I write deep technical content on [Medium](https://intellidean.medium.com/) cove
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `Rust (Nightly/Stable)` `Solidity` `Cairo` `Java` `TypeScript` `Python` `Go` |
-| **Chains & VMs** | `Ethereum` `Arbitrum (Stylus)` `Starknet` `Solana` `Monad` `Nervos (Fiber)` `Zcash` |
-| **Domains** | `Protocol Engineering` `Devtooling` `ZK Research` `Smart Contracts` `Fintech Systems` |
-| **Data & Core** | `RocksDB` `PostgreSQL` `SQLite (WAL)` `Diesel` `Alloy` `Docker` `gRPC` |
+| **Languages** | `Rust (Nightly/Stable)` `Java (Virtual Threads)` `Solidity` `Cairo` `TypeScript` `Python` `Go` |
+| **Chains & Protocols**| `ISO 8583:1987 (Visa/MC)` `Ethereum` `Arbitrum (Stylus)` `Starknet` `Solana` `Nervos (Fiber)` `Zcash` |
+| **Domains** | `Protocol Engineering` `Financial Switching & Systems` `Devtooling` `ZK Research` `Smart Contracts` |
+| **Data & Core** | `Apache Kafka` `PostgreSQL` `Redis` `RocksDB` `SQLite (WAL)` `Diesel` `Alloy` `Docker` `gRPC` |
 
 ---
 
