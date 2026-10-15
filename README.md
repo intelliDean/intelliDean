@@ -1,10 +1,10 @@
 # Hey, I'm Dean 👋
 
-### Protocol Engineer · Rust Systems · Financial Infrastructure · ZK & Privacy
+### Protocol Engineer · Distributed Systems & Fintech · Rust Systems · ZK & Privacy
 
-Performance is non-negotiable. Privacy is a right. Decentralisation is the point. I build at that intersection — and when the tools don't exist to build it right, I stop and build those first. Production Rust, financial protocols, cross-chain execution engines, and the writing that makes it all make sense to other developers.
+Performance is non-negotiable. Privacy is a right. Decentralisation is the point. I build at that intersection — and when the tools don't exist to build it right, I stop and build those first. Production Rust, financial protocols, cloud-native distributed systems, cross-chain execution engines, and the writing that makes it all make sense to other developers.
 
-Currently focused on: **Protocol Engineering** · **Financial Infrastructure** · **ZK/Privacy Systems** · **Devtooling**
+Currently focused on: **Protocol Engineering** · **Financial Infrastructure & Microservices** · **ZK/Privacy Systems** · **Devtooling**
 
 ---
 
@@ -22,6 +22,12 @@ Currently focused on: **Protocol Engineering** · **Financial Infrastructure** �
 * **Banking Cryptography & EMV**: ANSI X9.24 DUKPT key tree derivation (BDK/IPEK/PEK/MAK), ISO 9564 PIN translation (Formats 0, 1, 3, 4), ISO 9797-1 Retail MAC, and EMV BER-TLV chip decoding (DE 55).
 * **Clearing & Settlement**: Dual-Message System (DMS) engine with 1240 First Presentment, 1440 Chargeback dispute filing, and scheme interchange fee calculation.
 * **Stack**: `Java 21/26` · `Virtual Threads` · `Spring Boot` · `PostgreSQL 16` · `Redis 7` · `Apache Kafka 3.6` · `Prometheus`
+
+### 🌐 [Artezan](https://github.com/intelliDean/Artezan-Microservices) — Enterprise 12-Factor Microservices Platform
+* **Architecture**: Production-grade, 12-factor cloud-native microservices platform decoupled across 8 domain services (User, Booking, Listing, Task, Review, Payment, Notification, Media).
+* **Distributed Resiliency**: Containerized across 16 Docker containers, featuring **Resilience4j circuit breakers**, **Kafka Dead Letter Topics (DLT)** in KRaft mode, and Spring Cloud Config Server with `{cipher}` encrypted secrets.
+* **Observability & Gateway**: API Gateway with Redis rate limiting, JWT stateless auth, Zipkin distributed tracing, and Prometheus/Grafana operational metrics.
+* **Stack**: `Java 25` · `Spring Boot 3.4+ / 4.1.0` · `Spring Cloud (Eureka)` · `Docker (16 Containers)` · `Kafka KRaft` · `Redis` · `Zipkin`
 
 ### 🛡️ [FNN Safeguard](https://github.com/intelliDean/fnn_safeguard) — Nervos Fiber DR & Safety Qualification
 * **Safety Invariants**: Enforces machine-verifiable safety invariants (I1–I8) with deterministic fail-closed verdicts.
@@ -69,10 +75,10 @@ I write deep technical content on [Medium](https://intellidean.medium.com/) cove
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `Rust (Nightly/Stable)` `Java (Virtual Threads)` `Solidity` `Cairo` `TypeScript` `Python` `Go` |
+| **Languages** | `Rust (Nightly/Stable)` `Java 21/25/26` `Solidity` `Cairo` `TypeScript` `Python` `Go` |
 | **Chains & Protocols**| `ISO 8583:1987 (Visa/MC)` `Ethereum` `Arbitrum (Stylus)` `Starknet` `Solana` `Nervos (Fiber)` `Zcash` |
-| **Domains** | `Protocol Engineering` `Financial Switching & Systems` `Devtooling` `ZK Research` `Smart Contracts` |
-| **Data & Core** | `Apache Kafka` `PostgreSQL` `Redis` `RocksDB` `SQLite (WAL)` `Diesel` `Alloy` `Docker` `gRPC` |
+| **Architectures** | `Distributed Microservices (12-Factor)` `Protocol Engineering` `Financial Switching` `Devtooling` `ZK Research` |
+| **Data & Core** | `Apache Kafka (KRaft)` `PostgreSQL` `Redis` `RocksDB` `SQLite (WAL)` `Diesel` `Docker` `Zipkin` `gRPC` |
 
 ---
 
