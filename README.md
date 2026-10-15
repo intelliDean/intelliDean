@@ -23,6 +23,13 @@ Currently focused on: **Protocol Engineering** · **Financial Infrastructure & M
 * **Clearing & Settlement**: Dual-Message System (DMS) engine with 1240 First Presentment, 1440 Chargeback dispute filing, and scheme interchange fee calculation.
 * **Stack**: `Java 21/26` · `Virtual Threads` · `Spring Boot` · `PostgreSQL 16` · `Redis 7` · `Apache Kafka 3.6` · `Prometheus`
 
+### [ZecKit](https://github.com/intelliDean/ZecKit) — Zcash Regtest & Privacy Devnet Suite
+* **Devtooling & CI**: Reusable GitHub Action and local CLI suite spinning up automated multi-node Zebra regtest clusters for rapid Zcash testing.
+* **Shielded Testing Arrays**: Full E2E Orchard/Sapling shielded transaction validation (`zingolib v3.0.0`), NU6/NU6.1 network compatibility, and dynamic multi-wallet testing arrays.
+* **Faucet & State Snapshots**: Built-in regtest faucet API with on-chain broadcasting, state snapshotting, and Zaino / lightwalletd backend toggles.
+* **Takeaway**: Critical ecosystem testing infrastructure accelerating private Zcash dApp and wallet development.
+* **Stack**: `Rust` · `Zebra` · `Zingolib` · `Docker` · `GitHub Actions`
+
 ### [Artezan](https://github.com/intelliDean/Artezan-Microservices) — Enterprise 12-Factor Microservices Platform
 * **Architecture**: Production-grade, 12-factor cloud-native microservices platform decoupled across 8 domain services (User, Booking, Listing, Task, Review, Payment, Notification, Media).
 * **Distributed Resiliency**: Containerized across 16 Docker containers, featuring **Resilience4j circuit breakers**, **Kafka Dead Letter Topics (DLT)** in KRaft mode, and Spring Cloud Config Server with `{cipher}` encrypted secrets.
@@ -76,7 +83,7 @@ I write deep technical content on [Medium](https://intellidean.medium.com/) cove
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | `Rust (Nightly/Stable)` `Java 21/25/26` `Solidity` `Cairo` `TypeScript` `Python` `Go` |
-| **Chains & Protocols**| `ISO 8583:1987 (Visa/MC)` `Ethereum` `Arbitrum (Stylus)` `Starknet` `Solana` `Nervos (Fiber)` `Zcash` |
+| **Chains & Protocols**| `ISO 8583:1987 (Visa/MC)` `Zcash (NU6/NU6.1, Orchard)` `Ethereum` `Arbitrum (Stylus)` `Starknet` `Solana` `Nervos (Fiber)` |
 | **Architectures** | `Distributed Microservices (12-Factor)` `Protocol Engineering` `Financial Switching` `Devtooling` `ZK Research` |
 | **Data & Core** | `Apache Kafka (KRaft)` `PostgreSQL` `Redis` `RocksDB` `SQLite (WAL)` `Diesel` `Docker` `Zipkin` `gRPC` |
 
